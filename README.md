@@ -1,4 +1,4 @@
-# Yu An’s Portfolio 💼
+# [Yu An’s](https://github.com/yu-an-lu) Portfolio 💼
 
 ## Projects
 
