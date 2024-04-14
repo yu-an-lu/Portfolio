@@ -4,6 +4,7 @@
 
 | Project | Completion Date | Description | Tools |
 | --------------- |-------------| -----|-----|
+| [Signals & Networks](https://github.com/naziaC/ECSE316) | November 2023 | DNS client & FFT image processing | Python |
 | [OnCampus](https://github.com/ECSE-428-Group-5-W-2023/OnCampus) | April 2023 | Application to help students schedule events and align meetings | JavaScript, React, PostgreSQL, Docker, Cypress |
 | [Robot Delivery Service](https://github.com/Lucy-Zh/ECSE211-23) | April 2023 | Robot delivery service built from a BrickPi and Raspberry Pi system with sensors and motors | Python |
 | [Cabinet of Curiosities](https://github.com/McGill-ECSE321-Fall2022/project-group-13) | December 2022 | Web app for the staffs of a community museum to manage services for its clients | JavaScript, Java, Vue, PostgreSQL, Spring |
